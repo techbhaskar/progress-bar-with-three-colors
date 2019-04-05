@@ -1,5 +1,6 @@
-# progress-bar-with-three-colors
-progress bar with three colors without text
+
+# progress bar with three colors without text
+	
 	<!doctype html>
 	<html>
 	<head>
@@ -31,16 +32,16 @@ progress bar with three colors without text
 	  float: left;
 	}
 	</style>
-</head>
-<body>
-	<div id="progressbar">
-	  <div class="succ"></div>
-	  <div class="fail"></div>
-	  <div class="remain"></div>
-	</div>
-</body>
-</html>
-progress bar with three colors with text
+	</head>
+	<body>
+		<div id="progressbar">
+		  <div class="succ"></div>
+		  <div class="fail"></div>
+		  <div class="remain"></div>
+		</div>
+	</body>
+	</html>
+# progress bar with three colors with text
 
 	<!doctype html>
 	<html>
@@ -80,15 +81,15 @@ progress bar with three colors with text
 	  text-align:center;
 	}
 	</style>
-</head>
-<body class="author-page">
-	<!--  Wrapper  -->
-	<div id="progressbar">
-	  <div class="succ">20%</div>
-	  <div class="fail">30%</div>
-	  <div class="remain">40%</div>
-	</div>
-</body>
-</html>
+	</head>
+	<body class="author-page">
+		<!--  Wrapper  -->
+		<div id="progressbar">
+		  <div class="succ">20%</div>
+		  <div class="fail">30%</div>
+		  <div class="remain">40%</div>
+		</div>
+	</body>
+	</html>
 
 
