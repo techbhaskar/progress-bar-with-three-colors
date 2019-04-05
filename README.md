@@ -41,6 +41,8 @@
 		</div>
 	</body>
 	</html>
+# Result
+![](https://github.com/techbhaskar/images/blob/master/withouttext.JPG)
 # progress bar with three colors with text
 
 	<!doctype html>
@@ -91,5 +93,5 @@
 		</div>
 	</body>
 	</html>
-
-
+# Result
+![](https://github.com/techbhaskar/images/blob/master/withtext.JPG)
